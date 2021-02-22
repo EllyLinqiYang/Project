@@ -1,1 +1,2 @@
 # project
+This is a work in progress with a collection of mini product data science projects including conversion rate, A/B testing, funnel analysis, and etc. The projects are written in Python Jupyter Lab with a focus on business impacts and actionable insights from the analyses.
